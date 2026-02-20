@@ -1,0 +1,11 @@
+candidate_id,name,education_verified,employment_verified,criminal_record,address_verified
+101,Rahul,Yes,Yes,No,Yes
+102,Priya,No,Yes,No,Yes
+103,Arjun,Yes,No,Yes,No
+104,Siddharth,Yes,Yes,No,Yes
+105,Ananya,No,No,No,Yes
+106,Vikram,Yes,Yes,No,No
+107,Meera,Yes,No,No,Yes
+108,Rohan,No,Yes,Yes,No
+109,Ishani,Yes,Yes,No,Yes
+110,Karan,Yes,Yes,No,Yes
